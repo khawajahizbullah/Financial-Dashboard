@@ -88,5 +88,4 @@ Khawaja Hizbullah
 📍 Data & Business Analyst | Power BI | Python | SQL
 📧 khawajahizbullah@gmail.com
 
-🔗 LinkedIn
- | GitHub
+🔗 LinkedIn: https://www.linkedin.com/in/hizbullah-khawaja
